@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大摩里支菩薩經
+#+DATE: 2015-08-30 20:33:30.319658
+#+PROPERTY: JUAN 0
