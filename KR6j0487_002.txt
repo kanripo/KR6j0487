@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:29.915063
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:17
 #+TITLE: 佛說大摩里支菩薩經
 #+PROPERTY: CBETA_ID T21n1257
 #+PROPERTY: ID KR6j0487
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1257
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0487_T_000-0262a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0487_T_002-0266a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 佛說大摩里支菩薩經卷第二¶
+佛說大摩里支菩薩經卷第二¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣天息災奉　詔譯¶
@@ -147,8 +146,7 @@
 唵(引)桉多哩馱(二合引)曩摩細娑嚩(二合引)賀¶
 
 此菩薩亦現童女相。二臂一切莊嚴。身有熾¶
-焰亦著青天衣乘猪。手執羂索及無憂樹¶
-枝。¶
+焰亦著青天衣乘猪。手執羂索及無憂樹枝。¶
 
 北方安帝祖摩細菩薩。誦此真言。¶
 

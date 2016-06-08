@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:30.010400
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:17
 #+TITLE: 佛說大摩里支菩薩經
 #+PROPERTY: CBETA_ID T21n1257
 #+PROPERTY: ID KR6j0487
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1257
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0487_T_000-0262a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0487_T_006-0279a> ¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 佛說大摩里支菩薩經卷第六¶
+佛說大摩里支菩薩經卷第六¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣天息災奉　詔譯¶
@@ -244,9 +243,9 @@
 　依此勝軌儀
 　慈悲復為說¶
 　我等如得聞
-　永離諸嶮難
+　永離諸嶮難」
 #+END_VERSE
-」¶
+¶
 
 復次若有於曼拏羅。得受灌頂弟子。乘自師¶
 勅持本三昧。發清淨心求無上道。救度一切¶
@@ -309,9 +308,9 @@
 　同霑於利樂
 <pb:KR6j0487_T_006-0281c>¶
 　普發無上心
-　俱成正等覺
+　俱成正等覺」
 #+END_VERSE
-」¶
+¶
 
 如是誦偈三遍已。即入三昧思惟。一切諸法¶
 而無有我。作是觀已即誦無我真言。¶

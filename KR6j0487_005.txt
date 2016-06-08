@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:29.984717
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:17
 #+TITLE: 佛說大摩里支菩薩經
 #+PROPERTY: CBETA_ID T21n1257
 #+PROPERTY: ID KR6j0487
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1257
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0487_T_000-0262a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0487_T_005-0276a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 佛說大摩里支菩薩經卷第五¶
+佛說大摩里支菩薩經卷第五¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣天息災奉　詔譯¶
@@ -26,9 +25,9 @@
 　八輻祕密相
 　能斷諸煩惱¶
 　若人依法行
-　一切皆成就
+　一切皆成就」
 #+END_VERSE
-」¶
+¶
 
 此成就法。於素帛上或樺皮上。畫八輻輪。於¶
 其輪心書微妙梵字。以輪八輻即為八方位。¶

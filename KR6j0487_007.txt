@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:30.031686
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:17
 #+TITLE: 佛說大摩里支菩薩經
 #+PROPERTY: CBETA_ID T21n1257
 #+PROPERTY: ID KR6j0487
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1257
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0487_T_000-0262a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0487_T_007-0282a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 佛說大摩里支菩薩經卷第七¶
+佛說大摩里支菩薩經卷第七¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣天息災奉　詔譯¶
@@ -86,7 +85,7 @@
 如是菩薩如童女相。身色如雲乘猪。有三面¶
 各三目一作猪面二臂。右手持金剛鉤。左手¶
 持金剛索。口出利牙見者恐怖。東南方菩薩¶
-真言曰。¶
+真相曰。¶
 
 唵(引)嚩囉賀目契¶
 
