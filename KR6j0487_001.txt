@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:29.885129
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:18
 #+TITLE: 佛說大摩里支菩薩經
 #+PROPERTY: CBETA_ID T21n1257
 #+PROPERTY: ID KR6j0487
